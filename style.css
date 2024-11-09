@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  text-align:center ;
+  font: small-caps bold 80px/1 sans-serif ;
+}
+
+p {
+  text-align: center;
+  border: thick double #32a1ce;
+  font: small-caps bold 24px/1 sans-serif ;
+}
+
+button{
+  display: block;
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div{
+  text-align: center;
+}
